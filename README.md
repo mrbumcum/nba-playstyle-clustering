@@ -25,7 +25,7 @@ Ensure you have Jupyter Notebook installed along with NumPy, Pandas, Matplotlib,
 ```sh
    pip install -U scikit-learn
    ```
-# Installation (from PyPI)
+# Installation (from CONDA)
 1. After loading the environment run
 ```sh
    conda install jupyter numpy pandas matplotlib scikit-learn
