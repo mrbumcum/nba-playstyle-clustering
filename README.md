@@ -30,3 +30,9 @@ Ensure you have Jupyter Notebook installed along with NumPy, Pandas, Matplotlib,
 ```sh
    conda install jupyter numpy pandas matplotlib scikit-learn
    ```
+
+# Data
+The data used in this project is from basketball-reference.com. The data includes player statistics from the 2012-2021 NBA seasons. The data is stored in a CSV file called 'nbaData.csv'.
+
+# Clustering
+The clustering is performed using the K-means algorithm. The number of clusters is determined using the elbow method.
